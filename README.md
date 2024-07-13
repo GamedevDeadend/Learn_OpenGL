@@ -1,2 +1,2 @@
 # Learn_OpenGL
-Open GL Practice and learning from learn openGL.com
+Open GL Practice and learning from https://learnopengl.com
