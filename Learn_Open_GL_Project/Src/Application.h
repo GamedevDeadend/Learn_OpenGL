@@ -1,7 +1,7 @@
 #pragma once
 
+unsigned int& SendingDataToVertexShader();
+
+void Shader_Compile_Logs(unsigned int vertexShader);
+
 void NewFunction();
-
-int Intialize_GLAD(bool& retFlag);
-
-void SendingDataToVertexShader();
